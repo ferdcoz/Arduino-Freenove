@@ -10,7 +10,7 @@ int LEDPin[] = {2,3,4,5,6,7,8,9};   // column pin (cathode) of LED Matrix
 
 // Define the pattern data for a smiling face
 const int smilingFace[]={
-  0x1C, 0x22, 0x51, 0x45, 0x45, 0x51, 0x22, 0x1C
+  0x3C, 0x42, 0xA9, 0x85, 0x85, 0xA9, 0x42, 0x3C
 };
 
 // Definde the data of numbers and letters, and save them in flash area
